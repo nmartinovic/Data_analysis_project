@@ -64,5 +64,5 @@ I brought the data into Power BI and did not make any transformations other than
 ## Visualization:
 I visualized the data in Power BI.  You can access the data here: https://app.powerbi.com/view?r=eyJrIjoiNWI3YzIyZDUtNWEwNS00ZThjLTliNzQtNDhlYjljNDliMzY1IiwidCI6IjJmZGQ1ZGVjLTM0NjctNDMxZC1hYzk3LTllNGMxMTA4NGFjNiIsImMiOjF9
 
-The Power BI template is in the github repo.
+The Power BI Desktop template file is in the github repo.  You will need to run the SQL scripts prior to opening up the PBI file, and you may be prompted to enter credentials.
 
